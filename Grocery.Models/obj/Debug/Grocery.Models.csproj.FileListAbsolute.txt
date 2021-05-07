@@ -1,0 +1,16 @@
+E:\ElevenFiftyProjects\Blue Badge\GroceryAPI\GroceryApp\Grocery.Models\bin\Debug\Grocery.Models.dll
+E:\ElevenFiftyProjects\Blue Badge\GroceryAPI\GroceryApp\Grocery.Models\bin\Debug\Grocery.Models.pdb
+E:\ElevenFiftyProjects\Blue Badge\GroceryAPI\GroceryApp\Grocery.Models\obj\Debug\Grocery.Models.csprojAssemblyReference.cache
+E:\ElevenFiftyProjects\Blue Badge\GroceryAPI\GroceryApp\Grocery.Models\obj\Debug\Grocery.Models.csproj.CoreCompileInputs.cache
+E:\ElevenFiftyProjects\Blue Badge\GroceryAPI\GroceryApp\Grocery.Models\obj\Debug\Grocery.Models.dll
+E:\ElevenFiftyProjects\Blue Badge\GroceryAPI\GroceryApp\Grocery.Models\obj\Debug\Grocery.Models.pdb
+E:\ElevenFiftyProjects\Blue Badge\GroceryAPI\GroceryApp\Grocery.Models\bin\Debug\Grocery.Models.dll.config
+E:\ElevenFiftyProjects\Blue Badge\GroceryAPI\GroceryApp\Grocery.Models\bin\Debug\EntityFramework.dll
+E:\ElevenFiftyProjects\Blue Badge\GroceryAPI\GroceryApp\Grocery.Models\bin\Debug\EntityFramework.SqlServer.dll
+E:\ElevenFiftyProjects\Blue Badge\GroceryAPI\GroceryApp\Grocery.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\ElevenFiftyProjects\Blue Badge\GroceryAPI\GroceryApp\Grocery.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\ElevenFiftyProjects\Blue Badge\GroceryAPI\GroceryApp\Grocery.Models\bin\Debug\EntityFramework.xml
+E:\ElevenFiftyProjects\Blue Badge\GroceryAPI\GroceryApp\Grocery.Models\bin\Debug\EntityFramework.SqlServer.xml
+E:\ElevenFiftyProjects\Blue Badge\GroceryAPI\GroceryApp\Grocery.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\ElevenFiftyProjects\Blue Badge\GroceryAPI\GroceryApp\Grocery.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\ElevenFiftyProjects\Blue Badge\GroceryAPI\GroceryApp\Grocery.Models\obj\Debug\Grocery.Models.csproj.CopyComplete

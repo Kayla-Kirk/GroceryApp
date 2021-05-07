@@ -1,0 +1,2 @@
+E:\ElevenFiftyProjects\Blue Badge\GroceryAPI\GroceryApp\Grocery.API\obj\Debug\Grocery.API.csprojAssemblyReference.cache
+E:\ElevenFiftyProjects\Blue Badge\GroceryAPI\GroceryApp\Grocery.API\obj\Debug\Grocery.API.csproj.CoreCompileInputs.cache
