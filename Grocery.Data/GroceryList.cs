@@ -16,5 +16,7 @@ namespace Grocery.Data
         public Guid UserId { get; set; }
         [ForeignKey(nameof(Ingredient))]
         public virtual List<Ingredient> ListOfIngredients { get; set; }
+        [ForeignKey(nameof(Category))]
+        public virtual IngredientCategory Category { get; set; }
     }
 }
