@@ -14,3 +14,22 @@ E:\ElevenFiftyProjects\Blue Badge\GroceryAPI\GroceryApp\Grocery.Models\bin\Debug
 E:\ElevenFiftyProjects\Blue Badge\GroceryAPI\GroceryApp\Grocery.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
 E:\ElevenFiftyProjects\Blue Badge\GroceryAPI\GroceryApp\Grocery.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
 E:\ElevenFiftyProjects\Blue Badge\GroceryAPI\GroceryApp\Grocery.Models\obj\Debug\Grocery.Models.csproj.CopyComplete
+C:\ElevenFiftyAcademy\BlueBadge\GroceryApp\Grocery.Models\bin\Debug\Grocery.Models.dll.config
+C:\ElevenFiftyAcademy\BlueBadge\GroceryApp\Grocery.Models\bin\Debug\Grocery.Models.dll
+C:\ElevenFiftyAcademy\BlueBadge\GroceryApp\Grocery.Models\bin\Debug\Grocery.Models.pdb
+C:\ElevenFiftyAcademy\BlueBadge\GroceryApp\Grocery.Models\bin\Debug\EntityFramework.dll
+C:\ElevenFiftyAcademy\BlueBadge\GroceryApp\Grocery.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\ElevenFiftyAcademy\BlueBadge\GroceryApp\Grocery.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\ElevenFiftyAcademy\BlueBadge\GroceryApp\Grocery.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\ElevenFiftyAcademy\BlueBadge\GroceryApp\Grocery.Models\bin\Debug\EntityFramework.xml
+C:\ElevenFiftyAcademy\BlueBadge\GroceryApp\Grocery.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\ElevenFiftyAcademy\BlueBadge\GroceryApp\Grocery.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\ElevenFiftyAcademy\BlueBadge\GroceryApp\Grocery.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\ElevenFiftyAcademy\BlueBadge\GroceryApp\Grocery.Models\obj\Debug\Grocery.Models.csprojAssemblyReference.cache
+C:\ElevenFiftyAcademy\BlueBadge\GroceryApp\Grocery.Models\obj\Debug\Grocery.Models.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyAcademy\BlueBadge\GroceryApp\Grocery.Models\obj\Debug\Grocery.Models.csproj.CopyComplete
+C:\ElevenFiftyAcademy\BlueBadge\GroceryApp\Grocery.Models\obj\Debug\Grocery.Models.dll
+C:\ElevenFiftyAcademy\BlueBadge\GroceryApp\Grocery.Models\obj\Debug\Grocery.Models.pdb
+C:\ElevenFiftyAcademy\BlueBadge\GroceryApp\Grocery.Models\bin\Debug\Grocery.Data.dll
+C:\ElevenFiftyAcademy\BlueBadge\GroceryApp\Grocery.Models\bin\Debug\Grocery.Data.pdb
+C:\ElevenFiftyAcademy\BlueBadge\GroceryApp\Grocery.Models\bin\Debug\Grocery.Data.dll.config

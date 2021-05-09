@@ -14,3 +14,19 @@ E:\ElevenFiftyProjects\Blue Badge\GroceryAPI\GroceryApp\Grocery.Services\bin\Deb
 E:\ElevenFiftyProjects\Blue Badge\GroceryAPI\GroceryApp\Grocery.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
 E:\ElevenFiftyProjects\Blue Badge\GroceryAPI\GroceryApp\Grocery.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
 E:\ElevenFiftyProjects\Blue Badge\GroceryAPI\GroceryApp\Grocery.Services\obj\Debug\Grocery.Services.csproj.CopyComplete
+C:\ElevenFiftyAcademy\BlueBadge\GroceryApp\Grocery.Services\bin\Debug\Grocery.Services.dll.config
+C:\ElevenFiftyAcademy\BlueBadge\GroceryApp\Grocery.Services\bin\Debug\Grocery.Services.dll
+C:\ElevenFiftyAcademy\BlueBadge\GroceryApp\Grocery.Services\bin\Debug\Grocery.Services.pdb
+C:\ElevenFiftyAcademy\BlueBadge\GroceryApp\Grocery.Services\bin\Debug\EntityFramework.dll
+C:\ElevenFiftyAcademy\BlueBadge\GroceryApp\Grocery.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\ElevenFiftyAcademy\BlueBadge\GroceryApp\Grocery.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\ElevenFiftyAcademy\BlueBadge\GroceryApp\Grocery.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\ElevenFiftyAcademy\BlueBadge\GroceryApp\Grocery.Services\bin\Debug\EntityFramework.xml
+C:\ElevenFiftyAcademy\BlueBadge\GroceryApp\Grocery.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\ElevenFiftyAcademy\BlueBadge\GroceryApp\Grocery.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\ElevenFiftyAcademy\BlueBadge\GroceryApp\Grocery.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\ElevenFiftyAcademy\BlueBadge\GroceryApp\Grocery.Services\obj\Debug\Grocery.Services.csprojAssemblyReference.cache
+C:\ElevenFiftyAcademy\BlueBadge\GroceryApp\Grocery.Services\obj\Debug\Grocery.Services.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyAcademy\BlueBadge\GroceryApp\Grocery.Services\obj\Debug\Grocery.Services.csproj.CopyComplete
+C:\ElevenFiftyAcademy\BlueBadge\GroceryApp\Grocery.Services\obj\Debug\Grocery.Services.dll
+C:\ElevenFiftyAcademy\BlueBadge\GroceryApp\Grocery.Services\obj\Debug\Grocery.Services.pdb

@@ -5,7 +5,7 @@ using System.Security.Claims;
 using System.Threading.Tasks;
 using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.EntityFramework;
-using Microsoft.AspNet.Identity.Owin;
+
 
 namespace Grocery.Data
 {
@@ -33,7 +33,7 @@ namespace Grocery.Data
             return new ApplicationDbContext();
         }
 
-        public DbSet<Ingredient> Ingredient { get; set; }
+        public DbSet<Ingredient> Ingredients { get; set; }
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
