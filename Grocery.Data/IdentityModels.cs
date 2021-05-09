@@ -33,7 +33,7 @@ namespace Grocery.Data
         }
 
         public DbSet<Recipe> Recipes { get; set; }
-        public DbSet<Ingredient> Ingredient { get; set; }
+        public DbSet<Ingredient> Ingredients { get; set; }
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {

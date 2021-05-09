@@ -27,3 +27,6 @@ C:\Users\khali\Documents\1150\GroceryApp\GroceryApp\Grocery.Data\obj\Debug\Groce
 C:\Users\khali\Documents\1150\GroceryApp\GroceryApp\Grocery.Data\obj\Debug\Grocery.Data.csproj.CopyComplete
 C:\Users\khali\Documents\1150\GroceryApp\GroceryApp\Grocery.Data\obj\Debug\Grocery.Data.dll
 C:\Users\khali\Documents\1150\GroceryApp\GroceryApp\Grocery.Data\obj\Debug\Grocery.Data.pdb
+C:\Users\khali\Documents\1150\GroceryApp\GroceryApp\Grocery.Data\obj\Debug\Grocery.Data.Migrations.InitialCreate.resources
+C:\Users\khali\Documents\1150\GroceryApp\GroceryApp\Grocery.Data\obj\Debug\Grocery.Data.csproj.GenerateResource.cache
+C:\Users\khali\Documents\1150\GroceryApp\GroceryApp\Grocery.Data\obj\Debug\Grocery.Data.Migrations.InitialMigration.resources
