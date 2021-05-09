@@ -16,6 +16,7 @@ using Microsoft.Owin.Security.OAuth;
 using Grocery.API.Models;
 using Grocery.API.Providers;
 using Grocery.API.Results;
+using Grocery.Data;
 
 namespace Grocery.API.Controllers
 {

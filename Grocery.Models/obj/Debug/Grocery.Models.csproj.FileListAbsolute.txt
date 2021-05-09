@@ -14,3 +14,19 @@ E:\ElevenFiftyProjects\Blue Badge\GroceryAPI\GroceryApp\Grocery.Models\bin\Debug
 E:\ElevenFiftyProjects\Blue Badge\GroceryAPI\GroceryApp\Grocery.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
 E:\ElevenFiftyProjects\Blue Badge\GroceryAPI\GroceryApp\Grocery.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
 E:\ElevenFiftyProjects\Blue Badge\GroceryAPI\GroceryApp\Grocery.Models\obj\Debug\Grocery.Models.csproj.CopyComplete
+C:\Users\khali\Documents\1150\GroceryApp\GroceryApp\Grocery.Models\bin\Debug\Grocery.Models.dll.config
+C:\Users\khali\Documents\1150\GroceryApp\GroceryApp\Grocery.Models\bin\Debug\Grocery.Models.dll
+C:\Users\khali\Documents\1150\GroceryApp\GroceryApp\Grocery.Models\bin\Debug\Grocery.Models.pdb
+C:\Users\khali\Documents\1150\GroceryApp\GroceryApp\Grocery.Models\bin\Debug\EntityFramework.dll
+C:\Users\khali\Documents\1150\GroceryApp\GroceryApp\Grocery.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\khali\Documents\1150\GroceryApp\GroceryApp\Grocery.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\khali\Documents\1150\GroceryApp\GroceryApp\Grocery.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\khali\Documents\1150\GroceryApp\GroceryApp\Grocery.Models\bin\Debug\EntityFramework.xml
+C:\Users\khali\Documents\1150\GroceryApp\GroceryApp\Grocery.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\khali\Documents\1150\GroceryApp\GroceryApp\Grocery.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\khali\Documents\1150\GroceryApp\GroceryApp\Grocery.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\khali\Documents\1150\GroceryApp\GroceryApp\Grocery.Models\obj\Debug\Grocery.Models.csprojAssemblyReference.cache
+C:\Users\khali\Documents\1150\GroceryApp\GroceryApp\Grocery.Models\obj\Debug\Grocery.Models.csproj.CoreCompileInputs.cache
+C:\Users\khali\Documents\1150\GroceryApp\GroceryApp\Grocery.Models\obj\Debug\Grocery.Models.csproj.CopyComplete
+C:\Users\khali\Documents\1150\GroceryApp\GroceryApp\Grocery.Models\obj\Debug\Grocery.Models.dll
+C:\Users\khali\Documents\1150\GroceryApp\GroceryApp\Grocery.Models\obj\Debug\Grocery.Models.pdb
