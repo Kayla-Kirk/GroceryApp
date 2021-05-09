@@ -1,2 +1,32 @@
 E:\ElevenFiftyProjects\Blue Badge\GroceryAPI\GroceryApp\Grocery.Data\obj\Debug\Grocery.Data.csprojAssemblyReference.cache
 E:\ElevenFiftyProjects\Blue Badge\GroceryAPI\GroceryApp\Grocery.Data\obj\Debug\Grocery.Data.csproj.CoreCompileInputs.cache
+C:\Users\khali\Documents\1150\GroceryApp\GroceryApp\Grocery.Data\bin\Debug\Grocery.Data.dll.config
+C:\Users\khali\Documents\1150\GroceryApp\GroceryApp\Grocery.Data\bin\Debug\Grocery.Data.dll
+C:\Users\khali\Documents\1150\GroceryApp\GroceryApp\Grocery.Data\bin\Debug\Grocery.Data.pdb
+C:\Users\khali\Documents\1150\GroceryApp\GroceryApp\Grocery.Data\bin\Debug\EntityFramework.dll
+C:\Users\khali\Documents\1150\GroceryApp\GroceryApp\Grocery.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\khali\Documents\1150\GroceryApp\GroceryApp\Grocery.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\khali\Documents\1150\GroceryApp\GroceryApp\Grocery.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\khali\Documents\1150\GroceryApp\GroceryApp\Grocery.Data\bin\Debug\Microsoft.Owin.dll
+C:\Users\khali\Documents\1150\GroceryApp\GroceryApp\Grocery.Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\khali\Documents\1150\GroceryApp\GroceryApp\Grocery.Data\bin\Debug\Owin.dll
+C:\Users\khali\Documents\1150\GroceryApp\GroceryApp\Grocery.Data\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\khali\Documents\1150\GroceryApp\GroceryApp\Grocery.Data\bin\Debug\System.Web.Http.dll
+C:\Users\khali\Documents\1150\GroceryApp\GroceryApp\Grocery.Data\bin\Debug\System.Web.Http.Owin.dll
+C:\Users\khali\Documents\1150\GroceryApp\GroceryApp\Grocery.Data\bin\Debug\EntityFramework.xml
+C:\Users\khali\Documents\1150\GroceryApp\GroceryApp\Grocery.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\khali\Documents\1150\GroceryApp\GroceryApp\Grocery.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\khali\Documents\1150\GroceryApp\GroceryApp\Grocery.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\khali\Documents\1150\GroceryApp\GroceryApp\Grocery.Data\bin\Debug\Microsoft.Owin.xml
+C:\Users\khali\Documents\1150\GroceryApp\GroceryApp\Grocery.Data\bin\Debug\Newtonsoft.Json.xml
+C:\Users\khali\Documents\1150\GroceryApp\GroceryApp\Grocery.Data\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\khali\Documents\1150\GroceryApp\GroceryApp\Grocery.Data\bin\Debug\System.Web.Http.xml
+C:\Users\khali\Documents\1150\GroceryApp\GroceryApp\Grocery.Data\bin\Debug\System.Web.Http.Owin.xml
+C:\Users\khali\Documents\1150\GroceryApp\GroceryApp\Grocery.Data\obj\Debug\Grocery.Data.csprojAssemblyReference.cache
+C:\Users\khali\Documents\1150\GroceryApp\GroceryApp\Grocery.Data\obj\Debug\Grocery.Data.csproj.CoreCompileInputs.cache
+C:\Users\khali\Documents\1150\GroceryApp\GroceryApp\Grocery.Data\obj\Debug\Grocery.Data.csproj.CopyComplete
+C:\Users\khali\Documents\1150\GroceryApp\GroceryApp\Grocery.Data\obj\Debug\Grocery.Data.dll
+C:\Users\khali\Documents\1150\GroceryApp\GroceryApp\Grocery.Data\obj\Debug\Grocery.Data.pdb
+C:\Users\khali\Documents\1150\GroceryApp\GroceryApp\Grocery.Data\obj\Debug\Grocery.Data.Migrations.InitialCreate.resources
+C:\Users\khali\Documents\1150\GroceryApp\GroceryApp\Grocery.Data\obj\Debug\Grocery.Data.csproj.GenerateResource.cache
+C:\Users\khali\Documents\1150\GroceryApp\GroceryApp\Grocery.Data\obj\Debug\Grocery.Data.Migrations.InitialMigration.resources
