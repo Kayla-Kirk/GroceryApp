@@ -14,8 +14,13 @@ namespace Grocery.Data
         public int RecipeId { get; set; }
         [Required]
         public string RecipeName { get; set; }
-        [ForeignKey(nameof(Ingredient))]
-        public virtual List<Ingredient> ListOfIngredients { get; set; }
-        public string Content { get; set; }
+        [Required]
+        public Guid UserId { get; set; }
+
+        //[ForeignKey(nameof(Ingredient))]
+        //public virtual List<Ingredient> ListOfIngredients { get; set; }
+        //public string Content { get; set; }
+
+        
     }
 }

@@ -55,10 +55,21 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RecipeService.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Grocery.Data\Grocery.Data.csproj">
+      <Project>{379B59B0-A359-4EAD-B738-363A5CC100D3}</Project>
+      <Name>Grocery.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Grocery.Models\Grocery.Models.csproj">
+      <Project>{8DCA2083-621B-49F3-909D-CC1D2BC52A17}</Project>
+      <Name>Grocery.Models</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

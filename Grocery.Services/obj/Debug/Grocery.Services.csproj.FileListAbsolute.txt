@@ -14,3 +14,25 @@ E:\ElevenFiftyProjects\Blue Badge\GroceryAPI\GroceryApp\Grocery.Services\bin\Deb
 E:\ElevenFiftyProjects\Blue Badge\GroceryAPI\GroceryApp\Grocery.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
 E:\ElevenFiftyProjects\Blue Badge\GroceryAPI\GroceryApp\Grocery.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
 E:\ElevenFiftyProjects\Blue Badge\GroceryAPI\GroceryApp\Grocery.Services\obj\Debug\Grocery.Services.csproj.CopyComplete
+C:\Users\khali\Documents\1150\GroceryApp\GroceryApp\Grocery.Services\bin\Debug\Grocery.Services.dll.config
+C:\Users\khali\Documents\1150\GroceryApp\GroceryApp\Grocery.Services\bin\Debug\Grocery.Services.dll
+C:\Users\khali\Documents\1150\GroceryApp\GroceryApp\Grocery.Services\bin\Debug\Grocery.Services.pdb
+C:\Users\khali\Documents\1150\GroceryApp\GroceryApp\Grocery.Services\bin\Debug\EntityFramework.dll
+C:\Users\khali\Documents\1150\GroceryApp\GroceryApp\Grocery.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\khali\Documents\1150\GroceryApp\GroceryApp\Grocery.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\khali\Documents\1150\GroceryApp\GroceryApp\Grocery.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\khali\Documents\1150\GroceryApp\GroceryApp\Grocery.Services\bin\Debug\EntityFramework.xml
+C:\Users\khali\Documents\1150\GroceryApp\GroceryApp\Grocery.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\khali\Documents\1150\GroceryApp\GroceryApp\Grocery.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\khali\Documents\1150\GroceryApp\GroceryApp\Grocery.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\khali\Documents\1150\GroceryApp\GroceryApp\Grocery.Services\obj\Debug\Grocery.Services.csprojAssemblyReference.cache
+C:\Users\khali\Documents\1150\GroceryApp\GroceryApp\Grocery.Services\obj\Debug\Grocery.Services.csproj.CoreCompileInputs.cache
+C:\Users\khali\Documents\1150\GroceryApp\GroceryApp\Grocery.Services\obj\Debug\Grocery.Services.csproj.CopyComplete
+C:\Users\khali\Documents\1150\GroceryApp\GroceryApp\Grocery.Services\obj\Debug\Grocery.Services.dll
+C:\Users\khali\Documents\1150\GroceryApp\GroceryApp\Grocery.Services\obj\Debug\Grocery.Services.pdb
+C:\Users\khali\Documents\1150\GroceryApp\GroceryApp\Grocery.Services\bin\Debug\Grocery.Data.dll
+C:\Users\khali\Documents\1150\GroceryApp\GroceryApp\Grocery.Services\bin\Debug\Grocery.Models.dll
+C:\Users\khali\Documents\1150\GroceryApp\GroceryApp\Grocery.Services\bin\Debug\Grocery.Data.pdb
+C:\Users\khali\Documents\1150\GroceryApp\GroceryApp\Grocery.Services\bin\Debug\Grocery.Data.dll.config
+C:\Users\khali\Documents\1150\GroceryApp\GroceryApp\Grocery.Services\bin\Debug\Grocery.Models.pdb
+C:\Users\khali\Documents\1150\GroceryApp\GroceryApp\Grocery.Services\bin\Debug\Grocery.Models.dll.config
